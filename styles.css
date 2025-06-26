@@ -202,7 +202,13 @@ section {
 #bottom-section h2 {
     font-size: 36px;
     font-weight: 900;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
+    color: #F9FAF8;
+}
+#bottom-section p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 0px;
     color: #F9FAF8;
 }
 .button-container.hollow {
